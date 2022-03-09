@@ -2,7 +2,7 @@
 - 👀 I’m interested in cybersecurity, AI, InfoSec certification & Raspberry pi project 
 - 🌱 I’m currently learning  .go .sh .asc .pl .php .py .c 
 - 💞️ I’m looking to collaborate on only my own project 
-- 📫 How to reach me : salah.ouanes.dev@gmail.com
+- 📫 How to reach me : kreecause@gmail.com
 
 //
 my project is creating cyber security exclusive tools 

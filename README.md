@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @TagLish
 - 👀 I’m interested in cybersecurity, AI, InfoSec certification & Raspberry pi project 
-- 🌱 I’m currently learning  .go .sh .asc .C# .C++ .py
+- 🌱 I’m currently learning  .go .sh .asc .pl .php .py .c 
 - 💞️ I’m looking to collaborate on only my own project 
 - 📫 How to reach me : salah.ouanes.dev@gmail.com
 
 //
-My project : is based to grow up the @MediasK_Project on twitter I'm very interessed to learn learn learn learn learn like Crazy knowledge 
+my project is creating cyber security exclusive tools 
 //
 
 //
@@ -13,7 +13,8 @@ Type of interest:I'm very interessed with raspberry pi , electronic medcinal & A
 //
 
 //
-Personality : I very like People who let me reach their temperance levels so that there is a verbal understanding between us I do not like to feel inferior or superior 
+Personality : I am very sociable && i love learning like creazy knowledge 
+i am very interressing in WorldWide Languege of all country's
 //
 
 //
